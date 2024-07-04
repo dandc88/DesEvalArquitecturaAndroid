@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Click rápido</string>
+
+    <string name="ganador">Ganador :)</string>
+    <string name="perdedor">Perdedor :(</string>
+    <string name="click">Click!</string>
+</resources>
